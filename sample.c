@@ -2,7 +2,8 @@
 
 int main() {
 	printf("Hello World");
-	print("mauricethegoat");
+	printf("mauricethegoat");
+	printf("wekwe");
 	printf("my nibba");
 }
 
