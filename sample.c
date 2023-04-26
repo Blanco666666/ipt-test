@@ -6,6 +6,7 @@ int main() {
 	printf("wekwe");
 	printf("my nibba");
 	printf("asdasdasds");
+	printf("titi");
 	printf("asdasd");
 }
 
